@@ -6,4 +6,4 @@ This is the place where I keep my most-strongly developing pet projects. I use t
 
 Each repository here has an Apache 2.0 license. 
 
-Feel free to explore repos here. I write documentation on some of them, mainly because my friends want to use some of my projects.
+Feel free to explore repos here. I write documentation on some of them.
